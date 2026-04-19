@@ -16,7 +16,7 @@ The workflow is implemented in `experiments.ipynb` and includes:
 
 - `experiments.ipynb` — End-to-end notebook for data prep, training, and artifact export
 - `requirements.txt` — Python dependencies
-- `hamlet.tx` — Local copy of the Hamlet corpus text used in training
+- `hamlet.tx` — Local copy of the Hamlet corpus text used in training (kept with the current repository filename)
 - `next_word_lstm.h5` — Saved trained LSTM model
 - `tokenizer.pkl` — Saved tokenizer used to convert text to sequences
 
